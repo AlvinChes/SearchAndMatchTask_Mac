@@ -8,7 +8,7 @@ The SMT is designed as a single-target visual search task with multiple search t
 
 ![alt text](https://github.com/AlvinChes/SearchAndMatchTask_Mac/blob/master/Picture1.png)
 
-<sub>Trial sequence of the Search & Match Task. Each trial of a given level starts with a start board with a given width, height and number of tile types. To complete a trial, four consecutive target patterns (highlighted with white border) must be searched and matched. The top row depicts the easiest level (width = 4, height = 4, types of tiles = 4), the bottom row shows hardest level (width = 8, height = 8, types of tiles = 8).</sub>
+<sub>Trial sequence of the Search & Match Task. Each trial of a given level starts with a start board with a given width, height and number of tile types. To complete a trial, four consecutive target patterns (highlighted with white border) must be searched and matched. The top row depicts the lowest level (width = 4, height = 4, types of tiles = 4), the bottom row shows highest level (width = 8, height = 8, types of tiles = 8).</sub>
 
 If you publish work using this script please cite the relevant PsychoPy publications:
 
