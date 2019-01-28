@@ -24,9 +24,6 @@ from psychopy import sound
 from psychopy import core
 from psychopy import gui
 
-from psychopy import prefs
-prefs.general['audioLib'] = ['pygame']
-
 from SearchMatchTask_gui import show_gui
 
 # get function to get pre-generated puzzle boards from 'Levels' folder
