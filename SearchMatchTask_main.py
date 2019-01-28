@@ -3,14 +3,13 @@
 """
 This is a Psychopy adaptation of a tile-matching match-three puzzle game called "Search & Match Task"
 
-The code was written by Alvin Chesham.
-
-This experiment was created using PsychoPy2 Experiment Coder (), TODO: Thu Oct 16 13:34:11 2014
-
 If you publish work using this script please cite the relevant PsychoPy publications
   Peirce, JW (2007) PsychoPy - Psychophysics software in Python. Journal of Neuroscience Methods, 162(1-2), 8-13.
   Peirce, JW (2009) Generating stimuli for neuroscience using PsychoPy.
    Frontiers in Neuroinformatics, 2:10. doi: 10.3389/neuro.11.010.2008
+
+The code was written by Alvin Chesham.
+
 """
 
 ################################################ IMPORT LIBRARIES ##########################################
