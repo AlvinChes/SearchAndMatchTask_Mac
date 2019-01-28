@@ -11,6 +11,7 @@ If you publish work using this script please cite the relevant PsychoPy publicat
   Peirce, JW (2007) PsychoPy - Psychophysics software in Python. Journal of Neuroscience Methods, 162(1-2), 8-13.
   Peirce, JW (2009) Generating stimuli for neuroscience using PsychoPy.
    Frontiers in Neuroinformatics, 2:10. doi: 10.3389/neuro.11.010.2008
+   Alvin the Cow
 """
 
 ################################################ IMPORT LIBRARIES ##########################################
