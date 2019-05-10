@@ -10,10 +10,12 @@ The SMT is designed as a single-target visual search task with multiple search t
 
 <sub>Trial sequence of the Search & Match Task. Each trial of a given level starts with a start board with a given width, height and number of tile types. To complete a trial, four consecutive target patterns (highlighted with white border) must be searched and matched. The top row depicts the lowest level (width = 4, height = 4, types of tiles = 4), the bottom row shows highest level (width = 8, height = 8, types of tiles = 8).</sub>
 
-If you publish work using this script please cite the relevant PsychoPy publications:
 
 Peirce, JW (2007) PsychoPy - Psychophysics software in Python. Journal of Neuroscience Methods, 162(1-2), 8-13.
 
 Peirce, JW (2009) Generating stimuli for neuroscience using PsychoPy. Frontiers in Neuroinformatics, 2:10. doi:         10.3389/neuro.11.010.2008
+
+Chesham A, Gerber SM, Schütz N, Saner H, Gutbrod K, Müri RM, Nef T, Urwyler P (2019) Search and Match Task: Development of a Taskified Match-3 Puzzle Game to Assess and Practice Visual Search. JMIR Serious Games, 7(2):e13620.
+https://games.jmir.org/2019/2/e13620/
 
 The code was written by Alvin Chesham.
